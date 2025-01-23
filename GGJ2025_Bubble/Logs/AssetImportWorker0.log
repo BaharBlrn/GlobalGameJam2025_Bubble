@@ -454,3 +454,468 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4224.960961 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Corals - 16x16/Corals.png
+  artifactKey: Guid(f8f2d800b48608a48b32183565c422e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Corals - 16x16/Corals.png using Guid(f8f2d800b48608a48b32183565c422e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '40f46c211abd378f646ab7f5e3a9fd01') in 0.139954 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.046049 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Deads/Dead Large - 48x32.png
+  artifactKey: Guid(220a1ad5f58c4a9408555f19f198e979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Deads/Dead Large - 48x32.png using Guid(220a1ad5f58c4a9408555f19f198e979) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fc0586cb3dec61995e45eeecf55153e6') in 0.029155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.653944 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/UI/UI-Buttons.png
+  artifactKey: Guid(d81ce1917cb03e940a46e9f1a24182f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/UI/UI-Buttons.png using Guid(d81ce1917cb03e940a46e9f1a24182f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cb88aaa2697a31ac690d2b5844e1b417') in 0.030649 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.250187 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Blue.png
+  artifactKey: Guid(3000dfbc90a86d64c9e6ff369626114f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Blue.png using Guid(3000dfbc90a86d64c9e6ff369626114f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dfff371525e359ce15ec7208d4965dd4') in 0.021920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Light.png
+  artifactKey: Guid(5e67c9832f913934685a1635c0365123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Light.png using Guid(5e67c9832f913934685a1635c0365123) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ebc7c162e8db2d70b0c056622e939cd3') in 0.030174 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Medium.png
+  artifactKey: Guid(cfa7fa0eecee1274596d4d686b0549ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Medium.png using Guid(cfa7fa0eecee1274596d4d686b0549ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e0551223e1f178cf1546dd89b484f716') in 0.025634 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.882926 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Icons - 18x18/Border.png
+  artifactKey: Guid(a5c6a5e27e5c955498cd0a5f428f0580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Icons - 18x18/Border.png using Guid(a5c6a5e27e5c955498cd0a5f428f0580) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bf8f4d89069db8b1a9dabc6856a39543') in 0.038606 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Icons - 18x18/Icons - No Border.png
+  artifactKey: Guid(71eb664d533a3294aaaf65f674dc70c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Icons - 18x18/Icons - No Border.png using Guid(71eb664d533a3294aaaf65f674dc70c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '45e9448cb7412d9513431c69e153d66f') in 0.033640 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.312412 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/JellyFish - 32x16/JellyFish.png
+  artifactKey: Guid(5c21506602ea79f44a675496e83559c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/JellyFish - 32x16/JellyFish.png using Guid(5c21506602ea79f44a675496e83559c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9a0b64601a35d5136f82e715fdc4da8b') in 0.026638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.954170 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/SawShark - 48x32/SawShark.png
+  artifactKey: Guid(77f93bd05d21e2a44a16ab010a80f0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/SawShark - 48x32/SawShark.png using Guid(77f93bd05d21e2a44a16ab010a80f0b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5c68999ed15f732decb38282804873c6') in 0.021283 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.915015 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish3 - 32x16/Blue.png
+  artifactKey: Guid(2dbb8037de8144641a3e1bcb3d85e8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish3 - 32x16/Blue.png using Guid(2dbb8037de8144641a3e1bcb3d85e8b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0cba64061b54a5da66264ef3c4500854') in 0.015844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish3 - 32x16/Orange.png
+  artifactKey: Guid(7a3a842536c73e0448b36c01d3eac015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish3 - 32x16/Orange.png using Guid(7a3a842536c73e0448b36c01d3eac015) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5071662e34331d2d7780023c9949cf63') in 0.024903 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.844792 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 1.png
+  artifactKey: Guid(ec60ceacc2592e541a879942939dbd9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 1.png using Guid(ec60ceacc2592e541a879942939dbd9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9c34ee346b2bc8209b4edd2182d0b2c0') in 0.030068 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 5.png
+  artifactKey: Guid(71e11cdf0eb957f4591bf0fd52244831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 5.png using Guid(71e11cdf0eb957f4591bf0fd52244831) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4220de5e7671d6e14fb3adbf5db1d5db') in 0.025305 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 3.png
+  artifactKey: Guid(95521370c7c6af440992f2da3936894a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 3.png using Guid(95521370c7c6af440992f2da3936894a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cebd02ca6049fe21be95138ad1db22bf') in 0.032313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.523439 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Orange.png
+  artifactKey: Guid(e6f72d441baa30347acaf7adbd136a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Orange.png using Guid(e6f72d441baa30347acaf7adbd136a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '986dbbcf412120d881f0f4142a0c33a7') in 0.025212 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Red.png
+  artifactKey: Guid(4a62dba68fd39454d91c904fc353df56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Red.png using Guid(4a62dba68fd39454d91c904fc353df56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '734b2440e9b3c62d0349c24d3279cdcc') in 0.024543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.048464 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish2 - 32x16/Blue.png
+  artifactKey: Guid(7b08bfac23598db4383658173e78de79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish2 - 32x16/Blue.png using Guid(7b08bfac23598db4383658173e78de79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd0161e225cdb60d8a2eb11ebc7315eb9') in 0.027876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish2 - 32x16/Purple.png
+  artifactKey: Guid(fa3f56ccacec37d40997956c859cf2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish2 - 32x16/Purple.png using Guid(fa3f56ccacec37d40997956c859cf2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ed2d49b6a40d216d7570e6967077c520') in 0.026258 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.647395 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Shark - 32x32/Shark.png
+  artifactKey: Guid(d80244e2336281c45b93e007f7f4db1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Shark - 32x32/Shark.png using Guid(d80244e2336281c45b93e007f7f4db1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'affc246dc10b24bab5c356c2eaa183f5') in 0.021354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.735459 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/SwordFish - 48x32/SwordFish.png
+  artifactKey: Guid(3517b02452fb2764e854eae8acb6222d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/SwordFish - 48x32/SwordFish.png using Guid(3517b02452fb2764e854eae8acb6222d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'dc3dd003b08f9aa8135f806678cb3b65') in 0.024002 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.494731 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Bubble - 8x8.png
+  artifactKey: Guid(762b81f66a551014f8be7c5a1334c169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Bubble - 8x8.png using Guid(762b81f66a551014f8be7c5a1334c169) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '11e4e0ffdfdde9efb4848f3b40d97a90') in 0.039109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Harpoon.png
+  artifactKey: Guid(b6763e7f4fe491a4a81c3969bd56f026) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Harpoon.png using Guid(b6763e7f4fe491a4a81c3969bd56f026) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a0360dc2c232b5121f4199dbf529484d') in 0.024219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Clam - 16x16.png
+  artifactKey: Guid(8a89f1eeb089bdb45ba95ad1b6065a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Clam - 16x16.png using Guid(8a89f1eeb089bdb45ba95ad1b6065a02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7374b70cd05a5b535dbfae3de4004e52') in 0.016919 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Shells - 16x16.png
+  artifactKey: Guid(1586ca712d1512a438c4d0e35116cb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Shells - 16x16.png using Guid(1586ca712d1512a438c4d0e35116cb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1f938e1ad08b2cd545f85a61a170abdc') in 0.022498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 5.737834 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16
+  artifactKey: Guid(a083e94540abaf84eaa3775e944cdbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16 using Guid(a083e94540abaf84eaa3775e944cdbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'aa2d41182621c013c2716a8f4c4b26d3') in 0.001364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.329222 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Corals - 16x16/Emission Maps/Corals - EM.png
+  artifactKey: Guid(7d4be1466ffc55d4c8f51c0a9e340e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Corals - 16x16/Emission Maps/Corals - EM.png using Guid(7d4be1466ffc55d4c8f51c0a9e340e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '995fdbbc0ba5b2cb1f47c50a329c0be4') in 0.023605 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 13.550216 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Abyss.png
+  artifactKey: Guid(2b006e723fce0e24a8c0ee6a07c58433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Abyss.png using Guid(2b006e723fce0e24a8c0ee6a07c58433) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c73564dbfdf689cba5104d3cc714623c') in 0.030013 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Sand.png
+  artifactKey: Guid(280b37b95f0018c4cbd8eedebe24b5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Sand.png using Guid(280b37b95f0018c4cbd8eedebe24b5c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '741425cac8a40baa6d63c2de7854a909') in 0.023769 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.203219 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Emission Maps
+  artifactKey: Guid(bd4ae76e209f8b94b874a6571da288d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Emission Maps using Guid(bd4ae76e209f8b94b874a6571da288d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c30a9a723f16a478f485f7176fe1d409') in 0.000991 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.210351 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Emission Maps/Abyss - EM.png
+  artifactKey: Guid(0e08b7d8f104c0d4eae34a1403a09c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Emission Maps/Abyss - EM.png using Guid(0e08b7d8f104c0d4eae34a1403a09c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '452518bf9d4aa113e938ec50c50cf66f') in 0.018636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 69.167657 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprite names.png
+  artifactKey: Guid(263148591ddf91d429883c08ab71c3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprite names.png using Guid(263148591ddf91d429883c08ab71c3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '11494e42dc298aed000e1f9b776fa022') in 0.032986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.953896 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites
+  artifactKey: Guid(7d71ed583a15b7b4facabdb02f6283fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites using Guid(7d71ed583a15b7b4facabdb02f6283fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0b993295d0bb00d31aa7dd0f422f9cd1') in 0.000761 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 36.230453 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Layers/Body.png
+  artifactKey: Guid(62af0435957436640883b1ebd4da54d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Layers/Body.png using Guid(62af0435957436640883b1ebd4da54d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b79480ec48df4e31504840b13d4b4733') in 0.021716 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Layers/Mouth.png
+  artifactKey: Guid(349b0d68dd9399d4aab6eb2436497c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Layers/Mouth.png using Guid(349b0d68dd9399d4aab6eb2436497c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f4d3ce6ff9dcb3eae81e7750b7730037') in 0.028510 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 8.354240 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Sea angler - 32x32/SeaAngler.png
+  artifactKey: Guid(46ffb07802b1abf408a7b14f5c522305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Sea angler - 32x32/SeaAngler.png using Guid(46ffb07802b1abf408a7b14f5c522305) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a5ca16ed5b63aad3ccff648d13487096') in 0.027063 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 35.344591 seconds.
+  path: Assets/TutorialInfo/Icons/Help_Icon.png
+  artifactKey: Guid(9266273b8f123004195741f969177dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TutorialInfo/Icons/Help_Icon.png using Guid(9266273b8f123004195741f969177dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '2b32bc2093d7e92dde194dbdd4f24de0') in 0.016590 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 47218.924427 seconds.
+  path: Assets/SpearFishing Assets Pack/fundo do mar back.png
+  artifactKey: Guid(aecdcebe1eb1b2e40975f3bbff0f6030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/fundo do mar back.png using Guid(aecdcebe1eb1b2e40975f3bbff0f6030) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c3f763272dbbab266b95736bd01f58ae') in 0.053793 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Assembly with name 'Unity.PlasticSCM.Editor' already exists (Packages/com.unity.collab-proxy/Editor/PlasticSCM/Unity.PlasticSCM.Editor.asmdef)
+Assembly with name 'Unity.PlasticSCM.Editor' already exists (Packages/com.unity.collab-proxy/Editor/Unity.PlasticSCM.Editor.asmdef)
+Assembly with name 'Unity.CollabProxy.Editor' already exists (Packages/com.unity.collab-proxy/Editor/PlasticSCM/Toolbar/Unity.CollabProxy.Editor.asmdef)
+Assembly with name 'Unity.CollabProxy.Editor' already exists (Packages/com.unity.collab-proxy/Editor/Toolbar/Unity.CollabProxy.Editor.asmdef)
+Assembly with name 'Unity.PlasticSCM.Editor' already exists (Packages/com.unity.collab-proxy/Editor/PlasticSCM/Unity.PlasticSCM.Editor.asmdef)
+Assembly with name 'Unity.PlasticSCM.Editor' already exists (Packages/com.unity.collab-proxy/Editor/Unity.PlasticSCM.Editor.asmdef)
+Assembly with name 'Unity.CollabProxy.Editor' already exists (Packages/com.unity.collab-proxy/Editor/PlasticSCM/Toolbar/Unity.CollabProxy.Editor.asmdef)
+Assembly with name 'Unity.CollabProxy.Editor' already exists (Packages/com.unity.collab-proxy/Editor/Toolbar/Unity.CollabProxy.Editor.asmdef)
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.311 seconds
+Refreshing native plugins compatible for Editor in 26.29 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Assembly with name 'Unity.PlasticSCM.Editor' already exists (Packages/com.unity.collab-proxy/Editor/PlasticSCM/Unity.PlasticSCM.Editor.asmdef)
+Assembly with name 'Unity.PlasticSCM.Editor' already exists (Packages/com.unity.collab-proxy/Editor/Unity.PlasticSCM.Editor.asmdef)
+Assembly with name 'Unity.CollabProxy.Editor' already exists (Packages/com.unity.collab-proxy/Editor/PlasticSCM/Toolbar/Unity.CollabProxy.Editor.asmdef)
+Assembly with name 'Unity.CollabProxy.Editor' already exists (Packages/com.unity.collab-proxy/Editor/Toolbar/Unity.CollabProxy.Editor.asmdef)
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  5.649 seconds
+Domain Reload Profiling: 6951ms
+	BeginReloadAssembly (511ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (50ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (171ms)
+	RebuildCommonClasses (55ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (654ms)
+		LoadAssemblies (840ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (32ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (5650ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1338ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (49ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (251ms)
+			ProcessInitializeOnLoadAttributes (926ms)
+			ProcessInitializeOnLoadMethodAttributes (98ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (31ms)
+Refreshing native plugins compatible for Editor in 36.86 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4301 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (42.2 KB). Loaded Objects now: 4842.
+Memory consumption went from 148.9 MB to 148.9 MB.
+Total: 10.908100 ms (FindLiveObjects: 0.754300 ms CreateObjectMapping: 0.816100 ms MarkObjects: 9.159500 ms  DeleteObjects: 0.175600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 815.684378 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a2ed4f3eafcc2bc862c440eaeb831565') in 0.014536 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
