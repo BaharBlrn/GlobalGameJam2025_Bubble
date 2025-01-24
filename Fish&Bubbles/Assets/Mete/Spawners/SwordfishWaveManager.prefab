@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4591962077996465796
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5172192926549807521}
+  - component: {fileID: 4677650169893593996}
+  m_Layer: 0
+  m_Name: SwordfishWaveManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5172192926549807521
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4591962077996465796}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.3416724, y: 0.2309628, z: -0.0056610825}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4677650169893593996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4591962077996465796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57e506d21e202e49991e043ebc1ed82, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waves:
+  - waveName: Sword Plunge Circle
+    entries:
+    - fishPrefab: {fileID: 2446739333042409837, guid: 7935a9f8e4d8a314dae16aed68903bcf, type: 3}
+      spawnPositions:
+      - {x: 4.31, y: 5.14, z: 0}
+      - {x: 6.221387, y: 2.9020455, z: 0}
+      - {x: 6.3681755, y: -0.9511656, z: 0}
+      - {x: 4.900286, y: -3.7401564, z: 0}
+      - {x: 1.9645059, y: -5.72, z: 0}
+      - {x: -2.475861, y: -5.685111, z: 0}
+      - {x: -5.3749437, y: -4.107129, z: 0}
+      - {x: -7.0997143, y: -1.4649272, z: 0}
+      - {x: -7.1364117, y: 2.4983757, z: 0}
+      - {x: -5.2648516, y: 5.1405783, z: 0}
+      - {x: -2.4024665, y: 6.5717707, z: 0}
+      - {x: 1.3039556, y: 6.791953, z: 0}
+      amount: 12
+      spawnInterval: 0
+      speed: 5
+  - waveName: Sword Plunge Right
+    entries:
+    - fishPrefab: {fileID: 2446739333042409837, guid: 7935a9f8e4d8a314dae16aed68903bcf, type: 3}
+      spawnPositions:
+      - {x: 4.31, y: 5.14, z: 0}
+      - {x: 6.221387, y: 2.9020455, z: 0}
+      - {x: 6.3681755, y: -0.9511656, z: 0}
+      - {x: 4.900286, y: -3.7401564, z: 0}
+      - {x: 1.9645059, y: -5.72, z: 0}
+      amount: 5
+      spawnInterval: 0
+      speed: 5
+  - waveName: Sword Plunge Down
+    entries:
+    - fishPrefab: {fileID: 2446739333042409837, guid: 7935a9f8e4d8a314dae16aed68903bcf, type: 3}
+      spawnPositions:
+      - {x: 4.900286, y: -3.7401564, z: 0}
+      - {x: 1.9645059, y: -5.72, z: 0}
+      - {x: -2.475861, y: -5.685111, z: 0}
+      - {x: -5.3749437, y: -4.107129, z: 0}
+      - {x: -7.0997143, y: -1.4649272, z: 0}
+      amount: 5
+      spawnInterval: 0
+      speed: 5
+  - waveName: Sword Plunge Up
+    entries:
+    - fishPrefab: {fileID: 2446739333042409837, guid: 7935a9f8e4d8a314dae16aed68903bcf, type: 3}
+      spawnPositions:
+      - {x: -5.2648516, y: 5.1405783, z: 0}
+      - {x: -2.4024665, y: 6.5717707, z: 0}
+      - {x: 1.3039556, y: 6.791953, z: 0}
+      - {x: 4.31, y: 5.14, z: 0}
+      amount: 4
+      spawnInterval: 0
+      speed: 5
+  - waveName: Sword Rush
+    entries:
+    - fishPrefab: {fileID: 2446739333042409837, guid: 7935a9f8e4d8a314dae16aed68903bcf, type: 3}
+      spawnPositions:
+      - {x: 4.31, y: 5.14, z: 0}
+      - {x: 6.221387, y: 2.9020455, z: 0}
+      - {x: 6.3681755, y: -0.9511656, z: 0}
+      - {x: 4.900286, y: -3.7401564, z: 0}
+      - {x: 1.9645059, y: -5.72, z: 0}
+      - {x: -2.475861, y: -5.685111, z: 0}
+      - {x: -5.3749437, y: -4.107129, z: 0}
+      - {x: -7.0997143, y: -1.4649272, z: 0}
+      - {x: -7.1364117, y: 2.4983757, z: 0}
+      - {x: -5.2648516, y: 5.1405783, z: 0}
+      - {x: -2.4024665, y: 6.5717707, z: 0}
+      - {x: 1.3039556, y: 6.791953, z: 0}
+      amount: 36
+      spawnInterval: 0.6
+      speed: 5
+  timeBetweenWaves: 6.5
+  player: {fileID: 0}
