@@ -1,6 +1,6 @@
 Base path: 'D:/Unity Hub/Editor/Data', plugins path 'D:/Unity Hub/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 
-Unhandled exception: Protocol error - failed to read magic number. Error code 0x80000004 (Not connected). (transferred 0/4)
 
-Quitting shader compiler process
+Cmd: compileSnippet
+  insize=5899 file=Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader name=TextMeshPro/Mobile/Distance Field pass=<Unnamed Pass 0> ppOnly=0
