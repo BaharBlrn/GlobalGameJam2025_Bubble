@@ -5,7 +5,8 @@ public class SwordfishBehavior : MonoBehaviour
     private Vector3 targetDirection; // Direction toward the player's location
     private float speed; // Movement speed
 
-    public void Init(Transform player)
+    // Initialize Swordfish with the player's position and speed
+    public void Init(Transform player, float newSpeed)
     {
         if (player == null)
         {
@@ -13,6 +14,9 @@ public class SwordfishBehavior : MonoBehaviour
             Destroy(gameObject); // Destroy Swordfish if no player is found
             return;
         }
+
+        // Set speed dynamically
+        speed = newSpeed;
 
         // Calculate the direction to the player's current position
         targetDirection = (player.position - transform.position).normalized;
@@ -38,10 +42,5 @@ public class SwordfishBehavior : MonoBehaviour
         {
             Destroy(gameObject);
         }
-    }
-
-    public void SetSpeed(float newSpeed)
-    {
-        speed = newSpeed; // Allow speed to be set dynamically
     }
 }

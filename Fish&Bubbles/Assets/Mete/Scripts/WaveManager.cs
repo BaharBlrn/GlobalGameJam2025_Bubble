@@ -51,8 +51,9 @@ public class WaveManager : MonoBehaviour
                 // Initialize fish behavior if applicable
                 if (fish.TryGetComponent<SwordfishBehavior>(out SwordfishBehavior swordfish))
                 {
-                    swordfish.Init(player);
+                    swordfish.Init(player, entry.speed); // Pass player reference and speed to Swordfish
                 }
+
                 else if (fish.TryGetComponent<PiranhaBehavior>(out PiranhaBehavior piranha))
                 {
                     piranha.Init(10f, entry.speed); // 10 seconds chase duration and defined speed
