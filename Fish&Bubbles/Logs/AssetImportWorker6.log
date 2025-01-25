@@ -185,3 +185,303 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+The file 'UserSettings/EditorUserSettings.asset' seems to have merge conflicts. Please open it in a text editor and fix the merge.
+0x00007ff627abaf9d (Unity) StackWalker::GetCurrentCallstack
+0x00007ff627ac0069 (Unity) StackWalker::ShowCallstack
+0x00007ff628aaff31 (Unity) GetStacktrace
+0x00007ff62916b63e (Unity) DebugStringToFile
+0x00007ff6277e2152 (Unity) LogRepeatingStringWithFlags
+0x00007ff627a886dd (Unity) PrintSerializedFileLoadError
+0x00007ff627a870ba (Unity) SerializedFile::InitializeRead
+0x00007ff627a68553 (Unity) PersistentManager::GetStreamNameSpaceInternal
+0x00007ff627a6793a (Unity) PersistentManager::GetSerializedFileIfObjectAvailable
+0x00007ff627a70e72 (Unity) PersistentManager::ReloadFromDisk
+0x00007ff628e61c97 (Unity) ReloadSerializedSingletons
+0x00007ff628e5547a (Unity) <lambda_b37b41f03089e3cb3f55061bbc93253d>::operator()
+0x00007ff628e907b2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
+0x00007ff628e7c75e (Unity) asio::detail::win_iocp_io_context::do_one
+0x00007ff628e7e3c4 (Unity) asio::detail::win_iocp_io_context::run
+0x00007ff628e8eb5c (Unity) IOService::Run
+0x00007ff628e626bf (Unity) AssetImportWorkerClient::Run
+0x00007ff628e2d597 (Unity) RunAssetImportWorkerClientV2
+0x00007ff628e2d61b (Unity) RunAssetImporterV2
+0x00007ff6286260e1 (Unity) Application::InitializeProject
+0x00007ff628aba715 (Unity) WinMain
+0x00007ff629e9f4be (Unity) __scrt_common_main_seh
+0x00007fff7419259d (KERNEL32) BaseThreadInitThunk
+0x00007fff764eaf38 (ntdll) RtlUserThreadStart
+
+Trying to reload asset but can't find object on disk
+0x00007ff627abaf9d (Unity) StackWalker::GetCurrentCallstack
+0x00007ff627ac0069 (Unity) StackWalker::ShowCallstack
+0x00007ff628aaff31 (Unity) GetStacktrace
+0x00007ff62916b63e (Unity) DebugStringToFile
+0x00007ff627a70ee1 (Unity) PersistentManager::ReloadFromDisk
+0x00007ff628e61c97 (Unity) ReloadSerializedSingletons
+0x00007ff628e5547a (Unity) <lambda_b37b41f03089e3cb3f55061bbc93253d>::operator()
+0x00007ff628e907b2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
+0x00007ff628e7c75e (Unity) asio::detail::win_iocp_io_context::do_one
+0x00007ff628e7e3c4 (Unity) asio::detail::win_iocp_io_context::run
+0x00007ff628e8eb5c (Unity) IOService::Run
+0x00007ff628e626bf (Unity) AssetImportWorkerClient::Run
+0x00007ff628e2d597 (Unity) RunAssetImportWorkerClientV2
+0x00007ff628e2d61b (Unity) RunAssetImporterV2
+0x00007ff6286260e1 (Unity) Application::InitializeProject
+0x00007ff628aba715 (Unity) WinMain
+0x00007ff629e9f4be (Unity) __scrt_common_main_seh
+0x00007fff7419259d (KERNEL32) BaseThreadInitThunk
+0x00007fff764eaf38 (ntdll) RtlUserThreadStart
+
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.064 seconds
+Refreshing native plugins compatible for Editor in 26.37 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.919 seconds
+Domain Reload Profiling: 3970ms
+	BeginReloadAssembly (393ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (25ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (79ms)
+	RebuildCommonClasses (69ms)
+	RebuildNativeTypeToScriptingClass (24ms)
+	initialDomainReloadingComplete (63ms)
+	LoadAllAssembliesAndSetupDomain (502ms)
+		LoadAssemblies (690ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (44ms)
+			TypeCache.Refresh (12ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (18ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (2919ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1089ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (51ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (177ms)
+			ProcessInitializeOnLoadAttributes (772ms)
+			ProcessInitializeOnLoadMethodAttributes (73ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (23ms)
+Refreshing native plugins compatible for Editor in 41.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4315 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (42.0 KB). Loaded Objects now: 4798.
+Memory consumption went from 150.4 MB to 150.4 MB.
+Total: 9.795300 ms (FindLiveObjects: 0.540100 ms CreateObjectMapping: 0.596300 ms MarkObjects: 8.480600 ms  DeleteObjects: 0.176600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 48235.303728 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+  artifactKey: Guid(c334973cef89a9840b0b0c507e0377ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc using Guid(c334973cef89a9840b0b0c507e0377ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cba274f082ccc7b8e4fa8c5560a97b0b') in 0.021243 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 5.883112 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Icons - 18x18/Icons.png
+  artifactKey: Guid(810149eebc26e564d83a2121796babc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Icons - 18x18/Icons.png using Guid(810149eebc26e564d83a2121796babc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7989282c5486bebf0b952223eadb28c1') in 0.168688 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 4.787441 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Cliff.png
+  artifactKey: Guid(f8287ed8eca9a5e43aa6df2686594b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Tiles - 16x16/Cliff.png using Guid(f8287ed8eca9a5e43aa6df2686594b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3e2df5c2c1cd12a392879a55604c9c09') in 0.041143 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.332023 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Dark.png
+  artifactKey: Guid(d832431a53f765f4ebb14e836d8a70f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Dark.png using Guid(d832431a53f765f4ebb14e836d8a70f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '4934a258aa0500d98c9f1119d9f9fd5e') in 0.016126 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1.031386 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Light.png
+  artifactKey: Guid(e9ab1d56b5036664994228174b72dc7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Light.png using Guid(e9ab1d56b5036664994228174b72dc7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0a59398ce9047e491dc8018f65eb40aa') in 0.022354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Medium.png
+  artifactKey: Guid(aa6854e1e4088b14d8e59126b98a2c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/SeaWeed - 16x32/Medium.png using Guid(aa6854e1e4088b14d8e59126b98a2c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c1505c68f01eb5e129a4756f46a639c4') in 0.041694 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 15.050035 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish3 - 32x16/Grey.png
+  artifactKey: Guid(97a9dacb97684684f9549d03b213e858) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish3 - 32x16/Grey.png using Guid(97a9dacb97684684f9549d03b213e858) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'd965905fbb8624fb3265ca7dd0f4a557') in 0.037025 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.614171 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish2 - 32x16/Green.png
+  artifactKey: Guid(0253ca3bf0e7c924a97288e084bdd1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish2 - 32x16/Green.png using Guid(0253ca3bf0e7c924a97288e084bdd1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c94271c34a299e31c560af7ca3bb9f63') in 0.028265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.787181 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Pink.png
+  artifactKey: Guid(380dd06b3a243e540bd680e4835a792b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Fish1 - 16x16/Pink.png using Guid(380dd06b3a243e540bd680e4835a792b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '93f3ffefbbfd496ba81da833ce2a89b4') in 0.041894 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.533165 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 2.png
+  artifactKey: Guid(c32d97aaf1927114b872dfd111dd1dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 2.png using Guid(c32d97aaf1927114b872dfd111dd1dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '6ef00f08fa6bae9bd61dd55fa83d66a3') in 0.041029 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 6.png
+  artifactKey: Guid(63115b16bac28934395349d2a2f19d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Diver-32x32/Diver 6.png using Guid(63115b16bac28934395349d2a2f19d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '890c13322f94991b21b4011acb8e07b0') in 0.029458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.893459 seconds.
+  path: Assets/SpearFishing Assets Pack/Sprites/Deads/Dead Small - 32x32.png
+  artifactKey: Guid(88f50a25407e5ca4ca3beeb1174f4cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpearFishing Assets Pack/Sprites/Deads/Dead Small - 32x32.png using Guid(88f50a25407e5ca4ca3beeb1174f4cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f9b78c52c096dfb2bdf79f9c29dc28b8') in 0.035785 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.978 seconds
+Refreshing native plugins compatible for Editor in 23.54 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  2.454 seconds
+Domain Reload Profiling: 3420ms
+	BeginReloadAssembly (362ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (19ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (76ms)
+	RebuildCommonClasses (76ms)
+	RebuildNativeTypeToScriptingClass (21ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (454ms)
+		LoadAssemblies (614ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (49ms)
+			TypeCache.Refresh (17ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (21ms)
+			ResolveRequiredComponents (10ms)
+	FinalizeReload (2455ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (921ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (35ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (153ms)
+			ProcessInitializeOnLoadAttributes (640ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (29ms)
+Refreshing native plugins compatible for Editor in 25.72 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4313 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 51 unused Assets / (42.6 KB). Loaded Objects now: 4818.
+Memory consumption went from 150.3 MB to 150.2 MB.
+Total: 7.138700 ms (FindLiveObjects: 0.561700 ms CreateObjectMapping: 0.253500 ms MarkObjects: 6.192000 ms  DeleteObjects: 0.129300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
